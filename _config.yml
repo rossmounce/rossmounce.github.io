@@ -17,7 +17,7 @@ title: Ross Mounce's Blog
 email: ross.mounce@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Show me the data!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rossmounce.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rmounce
 github_username:  rossmounce
