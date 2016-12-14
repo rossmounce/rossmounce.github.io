@@ -1,0 +1,213 @@
+---
+author: rmounce
+comments: true
+date: 2014-11-20 01:35:53+00:00
+layout: post
+link: http://rossmounce.co.uk/2014/11/20/opencon2014/
+slug: opencon2014
+title: 'Generation Open: A Diary of OpenCon 2014'
+wordpress_id: 1460
+categories:
+- BMC
+- Conferences
+- Open Access
+- Open Data
+- PeerJ
+- phdchat
+- PLoS
+- Publications
+---
+
+Day 0 of OpenCon started with me missing the pre-conference drinks reception because my flight from Chicago was delayed by 2 hours. I got into Washington, D.C. (DCA) at about midnight & then had to wait half an hour for a blue line train to take me the short distance from the airport to the conference hotel -- I'm a diehard for public transport! Finally arriving at the hotel past 1 o'clock in the morning. Not a great start. Sincere apologies to my excellent room mate [Alfonso Sintjago](https://twitter.com/RemixEduc), to whom I hastily introduced myself the next morning #awkward 
+
+Day 1 started with a real bang. [Michael Carroll](http://en.wikipedia.org/wiki/Michael_W._Carroll) gave a short speech. Then [Pat Brown](http://en.wikipedia.org/wiki/Patrick_O._Brown) gave a long but HUGELY enjoyable talk about his role in the founding of [PLOS](http://www.plos.org/) & some excellent take home messages from the talk:
+
+
+
+	
+  * ***** Write petitions & letters for change with colleagues. Even if you fail to directly achieve all the goals or immediate aims of the petition, the act of doing it, the publicity & thought-provoking it raises can have real and important positive effects.
+
+
+I saw immediate parallels of this with the recent '[Open Peer Review Oath](http://f1000research.com/articles/3-271/v1)' , Jon Tennant's & co's '[Open Letter to AAAS](https://thewinnower.com/papers/open-letter-to-the-american-association-for-the-advancement-of-science)' , Erin McKiernan's '[Open Letter to the Society for Neuroscience](https://thewinnower.com/papers/open-letter-to-the-society-for-neuroscience)', Gower & Neylon's '[The Cost of Knowledge, the [ongoing] Elsevier Boycott](http://thecostofknowledge.com/)' and my own petition to '[Support Palaeo Data Archiving](http://www.nature.com/news/2011/110411/full/472150a.html)' (2011). All of these, have made people sit-up and take notice. They have ALL been worthwhile activities in my opinion.
+
+
+
+	
+  * ***** Sometimes you've got to do odd things that might be against your ethos, to support your interests in the long term e.g. the traditional [review selectivity of PLOS Biology](http://www.plosbiology.org/static/reviewerGuidelines#criteria) & initially, printing paper copies of PLOS Biology.
+
+	
+  * ***** Sometimes you have to **fake it to make it **(N.B. said in the context of [collective action](http://en.wikipedia.org/wiki/Collective_action), not scientific research)
+
+
+
+
+**The State of the Opens**
+
+Next there was a [panel with talks and discussion on the state of Open Access, Open Data and Open Educational Resources](http://opencon2014.sched.org/event/73c56ad9e78e6b9c06d222dad3a71311#.VGzaROeDJgI). I was giving the Open Data talk ([slides here](http://www.slideshare.net/rossmounce/open-con-mouncedata)) and found it hard to give -- to be authoritative on the state & practice of open research data requires significant research, and I simply didn't have time to really do the topic justice. I guess my main points were:
+
+
+
+
+
+	
+  * **If you don’t share your data, I don’t believe your research** [sharing at the time of publication, no later]. A viewpoint which is readily backed by research such as: '[Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026828)'
+
+	
+  * 
+	
+  * **Too much valuable data is either not online, or locked-up in PDFs - we can do better!** The research community, where possible should be aiming to provide [3-star](http://5stardata.info/) open research data. Providing data in non-proprietary forms such as _.csv_ is not hard, and we've had the technology and infrastructure to do this for a while now, we just need to do it...!
+
+
+
+
+I'm so glad [Victoria Stodden](http://blog.stodden.net/) gave the next talk after the panel, I think I was the one on the organising committee who first suggested her for a keynote slot (sorry to brag!). Victoria did not disappoint - [her talk](http://web.stanford.edu/~vcs/talks/OpenConNov152014-STODDEN.pdf) was a remarkable display of undeniable deep-thinking & scholarship. Her reminder to us all of [Merton's Scientific Norms](http://en.wikipedia.org/wiki/Mertonian_norms) (1942) was an excellent grounding in the basis of open research:
+
+
+
+	
+  * **Communalism**: scientific results are the common property of the community
+
+	
+  * **Universalism**: all scientists can contribute to science regardless of race, nationality, culture, or gender
+
+	
+  * **Disinterestedness**: act for the benefit of a common scientiﬁc enterprise,
+rather than for personal gain.
+
+	
+  * **Originality**: scientiﬁc claims contribute something new
+
+	
+  * **Skepticism**: scientiﬁc claims must be exposed to critical scrutiny before being
+accepted
+
+
+This was clearly appreciated by the audience and others e.g. [Lorraine](https://medium.com/@lorraine_chu3n/science-is-broken-part-1-68b0a9ccd45a) have already blogged about it. I also took home from the talk that it's important to distinguish between the 3 different types of reproducibility: Empirical Reproducibility, Computation Reproducibility, and Statistical Reproducibility, and that the [Bayh-Dole Act](http://en.wikipedia.org/wiki/Bayh%E2%80%93Dole_Act) is the an awfully bad motivator for NOT opening-up research in the US (of which I pointedly reflected-on in a meeting at the [NIH](http://en.wikipedia.org/wiki/National_Institutes_of_Health) on day 3).
+
+REAL TALK: at the end Stodden made a great point, which I hope was listened to: young academics should not be expected to martyr themselves for the cause of open scholarship, and that it should be the more senior academics leading the way -- here, here!
+
+[caption id="" align="aligncenter" width="830"]![](http://upload.wikimedia.org/wikipedia/commons/0/03/Bartolom%C3%A9_Esteban_Perez_Murillo_-_The_Martyrdom_of_St_Andrew_-_WGA16403.jpg) **Don't martyr yourself for the cause**. "Martyrdom of Saint Sebastian". By Giovanni Bassi, 1525. Public Domain[/caption]
+
+After lunch there were parallel sessions. [Uvania Naidoo](https://twitter.com/uvanianaidoo) led a workshop on Open Access in the Context of Developing Countries. I regret I can't report on that session because [Peter Murray-Rust](http://blogs.ch.cam.ac.uk/pmr/) and myself were holding a [ContentMine](http://contentmine.org/) workshop in the alternate room at the same time. The ContentMine session was really good fun, and very interactive -- you can see the discussion from the session on the [etherpad here](http://pads.cottagelabs.com/p/opencon2014). [Jure Triglav](https://twitter.com/juretriglav) had some great ideas around mining the literature for software citations, [Nic Weber](https://twitter.com/nniiicc) chimed-in that [HPC](http://en.wikipedia.org/wiki/Supercomputer) citation /mentions would be great to do too. [April Clyburne-Sherin](https://twitter.com/april_cs) was interested in clinical trials data mining etc... I could go on. The trick now is for us to explore these ideas and see if we can make them happen after the conference. The epidemiology/ebola, content mining looks like it's definitely going to happen, many people were interesting in forming a collaboration around that.
+
+**Innovative Publishing Models**
+
+I'm not going to report every session in full detail. This is one where I'm probably skimping. [Meredith Niles](https://twitter.com/meredithniles1) (Harvard postdoc) moderated talks and discussion by a panel consisting of Arianna Becerril ([Redalyc](http://www.redalyc.org/home.oa)), Pete Binfield ([PeerJ](https://peerj.com/)), Mark Patterson ([eLife](http://elifesciences.org/)) and Martin Paul Eve ([Open Library of Humanities](https://www.openlibhums.org/)).
+
+[caption id="attachment_1479" align="aligncenter" width="300"][![Meredith Niles and myself at the Day 1 evening reception. Twitter / M. Niles. All rights reserved, copyright not mine.  ](http://rossmounce.co.uk/wp-content/uploads/2014/11/boyc-e1416425429802-300x231.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/boyc-e1416425429802.jpg) Meredith Niles and myself, in my new favourite t-shirt at the evening reception, Day 1. [Twitter / M. Niles](https://twitter.com/MeredithNiles1/status/533793948423434240). All rights reserved, copyright not mine.[/caption]
+
+Huge congratulations to the organising committee for bringing this particular panel together. These are without doubt in my mind, representatives of four of the most important, innovative organizations in academic publishing right now. They all gave excellent talks but particular kudos should go to [Martin Paul Eve](https://www.martineve.com/) for delivering a swish Prezi and more importantly, a passionate, invigorating talk on the possible future of OA in the humanities.
+
+**The impact of open**
+
+The line-up alone for the next session was stellar. The conference had it's first glimpse of [Erin McKiernan](http://emckiernan.wordpress.com/) on stage, moderating a panel consisting of [Jack Andraka](http://en.wikipedia.org/wiki/Jack_Andraka), [Peter Murray-Rust](http://en.wikipedia.org/wiki/Peter_Murray-Rust), and [Daniel DeMarte](http://www.tcc.edu/welcome/president/staff/demarte.htm). Forgive me for a lack of detail here, it was near the end of a long day. Jack gave his usual polished speech, with humour and grace. As well as ably fielding a couple of tough but fair questions about his patent pending. As ever, a lot of people wanted to take pictures with him and he was gracious to allow everyone who wanted a photo with him
+
+[caption id="attachment_1483" align="aligncenter" width="590"][![Four people proudly pushing boundaries. Photo: mine! All rights reserved. CC-BY](http://rossmounce.co.uk/wp-content/uploads/2014/11/rename2-1024x604.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/rename2.jpg) **Four people proudly pushing boundaries**. Photo: mine! Licence: <del>All rights reserved.</del> [CC-BY](https://creativecommons.org/licenses/by/4.0/) of course![/caption]
+
+Jon Tennant (pictured above) gave Jack, as promised, a copy of his [new book](http://www.amazon.co.uk/Excavate-Dinosaurs-Paper-Toy-Paleontology/dp/1612125204), which I also have a copy of. Peter Murray-Rust gave a [rebel rousing talk](http://www.slideshare.net/petermurrayrust/opencon1), and an emotional slide of respect for the visionary pioneer of [open notebook science](http://en.wikipedia.org/wiki/Open_notebook_science), [Jean-Claude Bradley](http://en.wikipedia.org/wiki/Jean-Claude_Bradley), who sadly died this year.
+
+The day ended with a closing keynote from [John Wilbanks](http://en.wikipedia.org/wiki/John_Wilbanks) which was really the perfect cherry-on-top of the icing of a brilliant first day. It's only been a few days but his talk slides, '[Open as a Platform](http://www.slideshare.net/wilbanks/opencon2014-wilbanks-41598242)' have racked-up nearly 1000 views and I'm not surprised. I'd better not blather on too much, but put it this way: Wilbanks is a hero to me. I love some of things he's said before and I've really taken them to heart in my work e.g. "The best time to plant a tree is 20 years ago. The 2nd best time is NOW" from '[Data sharing as a means to a revolution](http://www.slideshare.net/wilbanks/data-sharing-as-a-means-to-a-revolution-8421942)'. It was **simply great** to be able to chat to both Michael Carroll and John Wilbanks at the evening reception.
+
+**Miscellaneous Day 2 Highlights** (If I don't abbreviate this blog post soon, it'll be book length)
+
+[**Audrey Watters**](https://twitter.com/audreywatters) keynote talk '[From "Open" to Justice](http://www.slideshare.net/audreywatters/from-open-to-justice)' had a clear closing message: open is necessary but it's not enough, we need meaningful political engagement, care and justice. The word 'open' alone does not solve all our problems (I may have paraphrased!).
+
+**[Erin McKiernan](https://twitter.com/emckiernan13)**'s keynote was an inspiration to us all. '[Being Open as an Early Career Researcher](http://figshare.com/articles/Being_Open_As_An_Early_Career_Reseacher_OpenCon_2014/1243319)' was a masterclass in DOING IT THE RIGHT WAY, with an abundance of supporting evidence. I haven't had the privilege of seeing her speak before, and had heard lots about how good a speaker she is - I wasn't disappointed. I completely stand with Erin when she says:
+
+
+<blockquote>If I am going to 'make it' in science, it has to be on terms I can live with.</blockquote>
+
+
+I sincerely look forward to working with Erin, [Prateek](https://twitter.com/mahalwarprateek), [Meredith](https://twitter.com/MeredithNiles1), [Nick](https://twitter.com/nshockey) and others on future projects, most immediately, the [Open Access Ambassadors meeting](http://oambassadors.mpdl.mpg.de/?page_id=263) in Munich this December.
+
+**Project Presentations**
+
+All the project panels on day 2 were excellent. It's great to see so many of our attendees, many of whom travelled along way to be here to get time on stage to tell us about their work.
+
+[caption id="attachment_1486" align="aligncenter" width="300"][![Open Access around the world](http://rossmounce.co.uk/wp-content/uploads/2014/11/panel-300x153.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/panel.jpg) **Open Access around the world**. [Twitter / Iryna Kuchma](https://twitter.com/irynakuchma/status/534037013503414272). All rights reserved, copyright not mine.[/caption]
+
+I was particularly taken by [Ahmed Ogunlaja](https://twitter.com/mendulla)'s clever response, to the question of how he approaches OA advocacy in Nigeria:
+
+
+<blockquote>Open Access wins all of the arguments all of the time</blockquote>
+
+
+That in itself got a round of applause. It's no exaggeration to say there were _a lot_ of earnest rounds applause that day; no polite applause.
+
+Another such spontaneous round of applause came when [Penny Andrews](https://twitter.com/pennyb) took the microphone to raise a really important point/question about diversity and social mobility in research in a calm, professional, clear tone. The audience, myself included were simply floored by how erudite it was. Stunning. This is but a small sample of what Penny brought to OpenCon:
+
+
+<blockquote>[If you only work with people who are like you, your work will only be FOR people like you. Embrace diversity, even if it’s hard #opencon2014](https://twitter.com/pennyb/status/534020687682629632)</blockquote>
+
+
+Late into the night at the 'unconference' session perhaps circa 11pm, Jure Triglav found out that his [ScienceGist](http://www.sciencegist.com/) summaries are being used (in a good way!) by a researcher as sample data to test against a machine-based paper summary approach -- I hope Jure blogs more about that, it seemed pretty cool to me. I'm also hoping ScienceGist might be used on PeerJ. Watch this space...
+
+[Mitar](https://twitter.com/mitar_m), gave an excellent talk, [PeerLibrary](https://peerlibrary.org/) has come-on a lot since I last looked at it, and he seemed to be literally overflowing with brilliant ideas, awaiting implementation. He told me had been considering applying for a Sloan Foundation grant to support his excellent work, but hadn't yet applied, so without his knowledge/consent I decided to send a [cheeky tweet](https://twitter.com/rmounce/status/534108591381561344) to encourage him! If Sloan won't fund his project(s), I'm sure Shuttleworth will!
+
+
+
+Carolina Botero's talk  was an important closer for day 2. So so important. Sharing Research Is Not A Crime!
+
+I've a written a long post and most of it is glowingly, sickeningly positive. What didn't go well?
+
+Well... this is all my fault but I do feel the 'How to be an open researcher' session run by Erin & myself could have been smoother. We had technical difficulties setting-up the computer. BOTH our laptops only have HDMI connectors, no VGA, so we had to borrow [Georgina](https://twitter.com/georginaetaylor)'s Mac & neither Erin nor I are particularly great Mac users (4-finger swiping between the browser and the presentation slides was challenging!), on linux this is very easy to do, just Alt-Tab & cycle through to the window you want. I must also apologise to Erin for launching into a mini-rant about figshare without forewarning her - I have concerns about putting too much open data on a commercial platform, that there simply isn't enough space in this blog post to get into. Another time! But in principle I think double-teaming a lively workshop like this works really well -- especially if we have slightly different viewpoints on some tool or strategy.
+
+**Day 3: On The Hill**
+
+
+
+Well, I learn't a little about Minnesota whilst sitting in [Amy J. Klobuchar](http://en.wikipedia.org/wiki/Amy_Klobuchar)'s office. In our short time with a legislative assistant of hers, we pitched hard for Open Access & Open Educational Resources.
+
+I highlighted that US taxpayer-funded academics give their work for free to commercial publishers, other academics peer-review this content, for free, the publisher barely does anything aside from typesetting & putting the content online, and hence most of the big publishers are consistently making 30-40% profit margins on taxpayer-funded research. [Standard knowledge basically] I was also quick to allay any concern that it would harm US businesses - I pointed out that most of the large publishers were European - Elsevier (Dutch), Springer (German), Nature Publishing Group (UK). It was a little disappointing to have only 30 minutes but that apparently was a good innings as these things go.
+
+Whilst I honestly have no idea what will come of the Minnesota Senator meeting, the meeting at NIH was seriously productive.
+
+NIH was simply fabulous for all involved, including NIH if you ask me! Many of the younger early career researchers got to see detailed & complicated concerns of their (relatively) more senior attendees e.g. [Prateek Malwahar](https://twitter.com/MahalwarPrateek), [Daniel Mietchen](https://twitter.com/evomri), [Lauren Maggio](https://twitter.com/LaurenMaggio), [Karin Shorthouse](https://twitter.com/KarinPurshouse) and myself. I was worried that perhaps we might have 'dominated' the discussion a bit too much, but after discussing it with [Shannon Evans](https://twitter.com/Shevanzic) afterwards - many actually really enjoyed seeing research-savvy people really dig into difficult policy issues. [Natalia Norori](https://twitter.com/natalianorori)'s question near the end was also brilliantly appropriate, and the response rather chilling (although I should be clear, I'm not trying to shoot the messenger here!) -- the USA has some deep political problems if disclosing the number of people using PubMed from _outside_ the US is a 'bad' thing (those who were there will know exactly what I'm talking about!). I'm also hugely excited by the prospect of the [OA_Button](https://www.openaccessbutton.org/) *potentially* getting a linkout button on Pubmed - Kent Anderson'll _love that_, eh?.
+
+Daniel Mietchen & I gave some valuable feedback on the packaging of the PubMed OA subset - the contention was that it wasn't seeing much visible use, and yet Daniel & I both feel this is wrong -- there are many users out there -- it's just hard to publish mining research because it's often new/interdisciplinary and how does one 'cite' PubMed corpus usage anyhow? -- it's clearly going to be difficult to track users.
+
+I was hugely flattered when [Neil Thakur](https://ned.nih.gov/search/ViewDetails.aspx?NIHID=0012404897) said he's read my blog before! wow! Hope you like this post Neil.
+
+**Swapping shirts & the super-friendly culture at OpenCon**
+
+I gave out my 2 spare 'Boycott Elsevier' t-shirts at OpenCon this year, and I think I'll make shirt-swapping a regular thing if I can! First, it was my immense pleasure to swap shirts with [Daniel Mutonga](https://twitter.com/d_mutonga) at the organizing committee dinner. To his credit, Daniel was the one who suggested it: 'like football players after a game' , so I put on his [MSAKE](https://twitter.com/msake_kenya) tee & he put on my 'Boycott Elsevier' tee. Fantastic. I think I should swap t-shirts with someone at every conference. [Shannon](https://twitter.com/Shevanzic) (?) told me an interesting variation on this one, which also sounds like a good idea to implement: swapping pin badges.
+
+I gave the other spare 'Boycott Elsevier' t-shirt to Erin McKiernan. We joked it would be hilarious to wear at SfN. Although, slightly concerned for how it would be received I did make clear that I didn't mind if she chose not to wear it at SfN. She's since [tweeted](https://twitter.com/emckiernan13/status/534828959889117184/photo/1) me a picture wearing it in front of the Elsevier stand - exactly what I'd do! Every penny spent on those t-shirts has been _totally_ worth it - such a good medium for non-violent, high profile activism!
+
+The 'backchannel' discussion on twitter between OpenCon attendees & remote followers of the conference was also brilliant. Lots of lively, informative, intelligent threads of discussion sparked by lots of the talks, simply excellent.
+
+It was also great to see [Celya Gruson-Daniel](https://twitter.com/celyagd) again - she's a real unsung hero of open science - if you aren't aware of her project [HackYourPhD](http://hackyourphd.org/en/) go check it out NOW. Community building is immensely important and she's clearly very good at it. It's immensely & deservedly popular in the Franco-phone world. (I wonder if there are similar wildly successful Spanish-language open science communities? Please point them in my direction if you know of one!)
+
+I must also thank [Kurtis Baude](https://twitter.com/kurtisbaute) for interviewing me about open research data in one of the breaks - his enthusiasm for spreading open science is infectious - we had a great chat together.
+
+
+
+[caption id="attachment_1496" align="aligncenter" width="590"][![People making change for the better](http://rossmounce.co.uk/wp-content/uploads/2014/11/attendees-1024x392.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/attendees.jpg) **People making change for the better**[/caption]
+
+Being at OpenCon, more than at any other meeting, I was truly amongst friends. I was going to list _everyone_ here in thanks but a list of 175 names isn't much fun to read & I wouldn't want to miss anyone out! Sorry to anyone I didn't mention by name!
+
+**Postscript:**
+
+[caption id="attachment_1465" align="aligncenter" width="300"][![Rejected. Image copied from http://www.huffingtonpost.com/leslie-goshko/rejection_b_3272718.html . All rights reserved, not my copyright](http://rossmounce.co.uk/wp-content/uploads/2014/11/2013-05-14-Rejected-300x141.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/2013-05-14-Rejected.jpg) **Rejected**. Image copied from [HuffPo / Leslie Goshko](http://www.huffingtonpost.com/leslie-goshko/rejection_b_3272718.html). All rights reserved, not my copyright.[/caption]
+
+I have to admit, I went to OpenCon feeling a little bit low. My cranial / postcranial data comparison manuscript from my PhD had been recently rejected (again). Not on the basis that it was bad science, just that it wasn't quite interesting enough for readers of the particular journal we (re)submitted it to. I gather this happens a lot with traditional impact-factor chasing publication strategies, and it can <del>ruin</del> [alter career paths](http://emhart.info/blog/2014/05/27/post-phd/) before they even get started. To have spent 4 years doing a PhD & 3 years of that on/off trying(ish) to publish this particular chapter and STILL have nothing, not even a preprint to publicly show for it (don't even ask why I can't put up a preprint. I think [preprints are a great idea](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001563) [myself](http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship/)...). I was a tad depressed - let's not pretend this doesn't happen to us all, folks. [Real Talk](http://www.urbandictionary.com/define.php?term=Real%20Talk&defid=4765809)
+
+Luckily, OpenCon has completely changed my mood for the better and reminded me of all the important things I _did_ do during my PhD:
+
+* I published _*shrugs* _in academic journals. I'm not even going to link to what I did manage to publish. I have a h-index, yada yada... I think all of the below were more important contributions, with more real-world impact to be honest:
+
+* I debated Open Access [live on BBC Radio 3](http://www.bbc.co.uk/programmes/b01n1rth) with [MP David Willetts](http://en.wikipedia.org/wiki/David_Willetts) & others
+
+* I gave a [pretty darn good talk about content mining](http://www.slideshare.net/rossmounce/content-mining) at the European Commission 'Licences for Europe, Working Group 4: Text & Data Mining' event. Which helped stave-off the unwanted imposition of 'licensed' content mining in Europe.
+
+* I submitted well-reasoned, written evidence, to the UK Business, Innovation and Skills (BIS) [call for information on Open Access policy](http://www.publications.parliament.uk/pa/cm201314/cmselect/cmbis/99/99vw49.htm)
+
+* I wrote popular & influential, blog pieces for the LSE Impact of Social Sciences blog: one on [simple steps towards open scholarship](http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/24/easy-steps-towards-open-scholarship/), and the other on the UK [Hargreaves copyright exception allowing non-commercial content mining](http://blogs.lse.ac.uk/impactofsocialsciences/2014/06/04/the-right-to-read-is-the-right-to-mine-tdm/).
+
+I write the above list, self-indulgently to convince myself I'm not stupid. I _can_ do clever stuff. I'm pretty sharp when it comes to research policy, and I have ideas and enthusiasm to help make research more open (== better). I think I've proved that now, time and time again.
+
+Next week I'm meeting up with my supervisor and we're going to work on revising & resubmitting that manuscript again. And thanks to [OpenCon 2014](http://www.opencon2014.org/) I'm actually in the mood to do that. Thanks Generation Open. You're awesome.
+
+[caption id="attachment_1469" align="aligncenter" width="351"][![Stay cool. Copied from http://indulgy.com/post/4NhbJB4QK1/try-try-again Haney. All rights reserved, not my copyright.](http://rossmounce.co.uk/wp-content/uploads/2014/11/tryagain.jpg)](http://rossmounce.co.uk/wp-content/uploads/2014/11/tryagain.jpg) **Stay cool**. Copied from [Tumblr / Haney](http://indulgy.com/post/4NhbJB4QK1/try-try-again). All rights reserved, not my copyright.[/caption]
+
+
